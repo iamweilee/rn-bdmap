@@ -1,0 +1,23 @@
+{
+  "name": "rn-bdmap",
+  "version": "0.1.0",
+  "description": "Baidu map component for react-native by beibeipig.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamweilee/rn-bdmap.git"
+  },
+  "keywords": [
+    "Baidu Map",
+    "React Native"
+  ],
+  "author": "beibeipig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamweilee/rn-bdmap/issues"
+  },
+  "homepage": "https://github.com/iamweilee/rn-bdmap#readme"
+}
